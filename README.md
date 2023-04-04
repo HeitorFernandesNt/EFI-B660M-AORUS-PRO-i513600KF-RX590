@@ -29,3 +29,15 @@ Kexts
  8. USBMap.kext
  9. VirtualSMC.kext
 10. WhateverGreen.kext
+
+### Images
+
+#### Sistem Info
+![Sistem Info](https://user-images.githubusercontent.com/22915541/229645211-c30304b4-df89-4493-9768-33799b8432b6.png)
+
+#### GPU Test (Metal)
+![GPU - Metal](https://user-images.githubusercontent.com/22915541/229644756-ff47fd30-6a38-431d-aa81-9e6989471ea2.png)
+
+#### GPU Test (OpenCL)
+![GPU - OpenCL](https://user-images.githubusercontent.com/22915541/229644897-5181476f-8886-4768-a3c1-9dd00a161710.png)
+
